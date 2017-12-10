@@ -1,0 +1,35 @@
+p {
+  color:black;
+  background-color:pink;
+  font-size:130%;
+  } 
+
+h1 {
+   color:MediumSpringGreen;
+   
+   }
+h2 {
+   color:SpringGreen;
+   }
+h3 {
+   color:MediumSeaGreen;
+   }
+h4 {
+   color:white;
+   background-color:SeaGreen;
+   }
+body{
+    background-color:seaGreen;
+}
+.first { font-size:300%; }
+/*punctul se foloseste pentru clasa*/
+
+#intro {
+color:LightGreen;
+background-color:white;
+       }  /* diez - pentru id*/ 
+
+
+
+
+
