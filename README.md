@@ -1,0 +1,1 @@
+# locatii_de_interes
