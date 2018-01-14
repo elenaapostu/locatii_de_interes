@@ -1,0 +1,31 @@
+{
+  "name": "locatii_de_interes_api",
+  "version": "1.0.0",
+  "description": "RESTful locatiiDeInteresApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenaapostu/locatii_de_interes.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Proiect"
+  ],
+  "author": "elena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenaapostu/locatii_de_interes/issues"
+  },
+  "homepage": "https://github.com/elenaapostu/locatii_de_interes#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.9"
+  }
+}
